@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/postcard-editor/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/postcard-editor/static/js/main.0f010cf9.chunk.js",
+    "main.js.map": "/postcard-editor/static/js/main.0f010cf9.chunk.js.map",
+    "runtime-main.js": "/postcard-editor/static/js/runtime-main.a3a0da3b.js",
+    "runtime-main.js.map": "/postcard-editor/static/js/runtime-main.a3a0da3b.js.map",
+    "static/js/2.78ba16ce.chunk.js": "/postcard-editor/static/js/2.78ba16ce.chunk.js",
+    "static/js/2.78ba16ce.chunk.js.map": "/postcard-editor/static/js/2.78ba16ce.chunk.js.map",
+    "index.html": "/postcard-editor/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/postcard-editor/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.78ba16ce.chunk.js.LICENSE.txt": "/postcard-editor/static/js/2.78ba16ce.chunk.js.LICENSE.txt",
+    "static/media/image_1.6f949393.png": "/postcard-editor/static/media/image_1.6f949393.png",
+    "static/media/image_2.29257926.png": "/postcard-editor/static/media/image_2.29257926.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3a0da3b.js",
+    "static/js/2.78ba16ce.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0f010cf9.chunk.js"
+  ]
+}
