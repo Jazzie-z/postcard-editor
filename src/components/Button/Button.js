@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 const BtnContainer = styled.div`
     background: ${({ theme }) => theme.colors.blue};
-    min-width:108px;
+    min-width: 108px;
     height: 30px;
     padding: 10px;
     box-sizing: border-box;
